@@ -1,0 +1,1 @@
+python3 dilekce.py --saat 00:17 --malzeme sucuk --gerekce "sadece baktim"
